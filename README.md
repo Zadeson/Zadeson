@@ -19,7 +19,14 @@ about_me = {
     'challenge': "I am actively working on projects to build a strong portfolio in AI and software development."
 }
 ```
-
+https://icons8.com/icon/haeAxVQEIg0F/rust-programming-language
+---
+### Technologies
+<code><img height="30" src="https://img.icons8.com/color/48/000000/python.png"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg"></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/html-5.png"></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/css3.png"></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"></code>
 ---
 
 ### My Github History
