@@ -1,37 +1,33 @@
-<h1><👋Hello World!/></h1>
-<h3>I am Zade, mainly interested in AI, Rust, and software development.</h2>
+# <👋Hello World! />
+### I am Zade, mainly interested in AI, Rust, and software development.
 
 ---
 
-```javascript
-const aboutMe = {
-   code: [Python, Rust, HTML, CSS, CSharp, Javascript],
-   technologies: {
-      frontEnd: {
-         cs: ["Razorpages"],
-         css: ["Materialize", "Bootstrap", "Material Design"]
-      },
-      backEnd: {
-         js: ["Node"],
-         csharp: ["Asp.net Core"],
-         misc: ["Selenium"]
-      },
-      databases: ["mySQL", "SQLServer"],
-   },
-   currentOccupation: ["first year student, open for job opportunities"],
-   challenge: "I'm working towards having 20+ projects in my portfolio.",
-};
+```python
+about_me = {
+    'code': ['Python', 'Rust', 'HTML', 'CSS', 'CSharp'],
+    'technologies': {
+        'frontEnd': {
+            'cs': ['Razorpages'],
+        },
+        'backEnd': {
+            'csharp': ['Asp.net Core'],
+        },
+        'databases': ['mySQL', 'SQLServer'],
+    },
+    'current_occupation': ['First-year student, open to exploring job opportunities'],
+    'challenge': "I am actively working on projects to build a strong portfolio in AI and software development."
+}
 ```
 
 ---
 
-<h3>My Github History</h3>
+### My Github History
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zadeson&theme=transparent" />
 </a>
 
 ---
 
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{zadeson}/count.svg" alt="zadeson :: Visitor's Count" /></p>
+#### Visitor's count :eyes:
+<img src="https://profile-counter.glitch.me/{zadeson}/count.svg" alt="zadeson :: Visitor's Count" />
