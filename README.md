@@ -1,13 +1,40 @@
-# 🕵️ Ethen Dixon
-
-**`Developer, CG Artist, Security Analyst`**
-
-I'm a full-stack developer at KnowMoreIT. Currently studying Computer Systems and Networking Technology, Computer Coding, and Computer Information Systems, I plan to obtain a bachelor's degree in Cybersecurity and a Master's in Computer Science. My passions include coding, ethical hacking, 3D animation in Blender, gaming, and reading. I specialize in Python, with some experience in CSHTML and C#, as well as ASP.NET Core and SQL servers. Ultimately, my goal is to work for the CIA and become an independent cybersecurity consultant. At just 17 years old, I have already completed a year of college, including five semesters in a Cisco Networking class. Let's connect and create something amazing!
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ethen_dixon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ethen-dixon) [![](https://visitcount.itsvg.in/api?id=Zadeson&icon=0&color=0)](https://visitcount.itsvg.in)
+<h1><👋Hello World!/></h1>
+<h3>I am Zade, mainly interested in AI, Rust, and software development.</h2>
 
 ---
 
-### 💻 Languages and Tools:
+```javascript
+const aboutMe = {
+   code: [Python, Rust, HTML, CSS, CSharp, Javascript],
+   technologies: {
+      frontEnd: {
+         cs: ["Razorpages"],
+         css: ["Materialize", "Bootstrap", "Material Design"]
+      },
+      backEnd: {
+         js: ["Node"],
+         csharp: ["Asp.net Core"],
+         misc: ["Selenium"]
+      },
+      databases: ["mySQL", "SQLServer"],
+   },
+   currentOccupation: ["first year student, open for job opportunities"],
+   challenge: "I'm working towards having 20+ projects in my portfolio.",
+};
+```
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+---
+
+<h3>My Github History</h3>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zadeson&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zadeson&layout=compact&langs_count=8&card_width=300&theme=transparent" />
+</a>
+
+---
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{zadeson}/count.svg" alt="zadeson :: Visitor's Count" /></p>
