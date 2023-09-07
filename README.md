@@ -19,7 +19,6 @@ about_me = {
     'challenge': "I am actively working on projects to build a strong portfolio in AI and software development."
 }
 ```
-https://icons8.com/icon/haeAxVQEIg0F/rust-programming-language
 ---
 ### Technologies
 <code><img height="30" src="https://img.icons8.com/color/48/000000/python.png"></code>
