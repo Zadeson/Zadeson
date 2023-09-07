@@ -30,7 +30,7 @@ const aboutMe = {
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zadeson&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zadeson&layout=compact&langs_count=8&card_width=300&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zadeson&layout=compact&langs_count=8&card_width=150&theme=transparent" />
 </a>
 
 ---
