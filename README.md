@@ -6,7 +6,7 @@ $ curl -s https://api.github.com/users/Zadeson/profile | json_pp
    "location" : "The Internet",
    "uptime" : "5 years",
    "status" : "Developing productivity algorithms for ADD",
-   "portfolio_projects" : "5"
+   "portfolio_projects" : "2"
 }
 $ cat /home/Zadeson/.bio
 "I use Python to craft tools that enhance productivity and solve problems.
